@@ -22,6 +22,18 @@ GitHub offers its basic services free of charge. Its more advanced professional 
 <br><hr>
 <h2> What is the GitHub User Finder ? </h2>
 GitHub User Finder is a project with a simple interface that allows us to see certain features of a GitHub user from just one screen.
-
+<br><hr>
+<h2> Screenshots </h2>
+<ul>
+  <li> Project user interface.<hr>
+      <img src="images/git1.png">
+  </li>
+  <li> The view when there is no account with the username entered.<hr>
+      <img src="images/git2.png">
+  </li>
+  <li> The view when the user with the entered username is found.<hr>
+      <img src="images/git3.png">
+  </li>
+</ul>
 
 
